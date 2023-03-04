@@ -1,0 +1,1 @@
+puts "Yes, you have Ruby installed!" if defined?(RUBY_VERSION)
